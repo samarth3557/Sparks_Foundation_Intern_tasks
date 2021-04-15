@@ -18,4 +18,8 @@ Prediction using Supervised ML
 
 
 ## Importing the required libraries!
-@task_2
+* import pandas as pd 
+* import seaborn as sns
+* import matplotlib.pyplot as plt
+* import numpy as np 
+* %matplotlib inline
