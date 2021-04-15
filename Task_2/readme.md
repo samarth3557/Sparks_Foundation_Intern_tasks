@@ -39,7 +39,7 @@ import numpy as np
 kmeans = KMeans(n_clusters = 3, init = 'k-means++', max_iter = 300, n_init = 10, random_state = 0)
 y_kmeans = kmeans.fit_predict(x)
 ```
-## Scatter plot
+## Scatter  plot
 
 ![image of scatterplot](https://github.com/samarth3557/Sparks_Foundation_Intern_tasks/blob/main/Task_2/Task_2_images/scatter.png)
 
