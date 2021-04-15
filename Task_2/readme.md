@@ -30,4 +30,4 @@ import numpy as np
 
 ### Pair plot
 
-![image of pairplot](https://github.com/samarth3557/Sparks_Foundation_Intern_tasks/blob/main/Task_2/Task_2_images/pairpplot.png)
+![image of pairplot](https://github.com/samarth3557/Sparks_Foundation_Intern_tasks/blob/main/Task_2/Task_2_images/pairplot.png)
