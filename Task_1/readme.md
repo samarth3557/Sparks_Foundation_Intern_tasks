@@ -29,4 +29,4 @@ import numpy as np
 
 ### Scatter Plot
 
-![Scatter plot]('C:\Users\SAMARTH P SHET\Python\images\Scatterplot.png')
+![image of Scatterplot](C:\Users\SAMARTH P SHET\Python\images\Scatterplot.png)
