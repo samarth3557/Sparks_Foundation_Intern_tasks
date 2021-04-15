@@ -13,7 +13,7 @@ Prediction using Unsupervised ML
 
 ● Sample Solution : https://bit.ly/3cGyP8j
 
-### Importing the Required Libraries!
+## Importing the Required Libraries!
 ```
 import pandas as pd 
 import seaborn as sns
@@ -22,12 +22,12 @@ import numpy as np
 %matplotlib inline 
 ```
 
-## Graphs :
+# Graphs :
 
-### Joint plot
+## Joint plot
 
 ![image of pairplot](https://github.com/samarth3557/Sparks_Foundation_Intern_tasks/blob/main/Task_2/Task_2_images/jointplot.png)
 
-### Pair plot
+## Pair plot
 
 ![image of pairplot](https://github.com/samarth3557/Sparks_Foundation_Intern_tasks/blob/main/Task_2/Task_2_images/pairplot.png)
