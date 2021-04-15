@@ -38,8 +38,9 @@ import numpy as np
 
 ## Chosing k =3 from the above elbow curve
 
-```kmeans = KMeans(n_clusters = 3, init = 'k-means++', max_iter = 300, n_init = 10, random_state = 0)
-   y_kmeans = kmeans.fit_predict(x)
+```
+kmeans = KMeans(n_clusters = 3, init = 'k-means++', max_iter = 300, n_init = 10, random_state = 0)
+y_kmeans = kmeans.fit_predict(x)
 ```
 
 
