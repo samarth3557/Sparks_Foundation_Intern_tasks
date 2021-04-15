@@ -1,9 +1,9 @@
 # Sparks_Foundation_Intern_tasks
-Data Science  &amp; Business  Analytics  Tasks
+## Data Science  & Business  Analytics  Tasks
 
 
 
-TASK 1
+# TASK 1
 
 Prediction using Supervised ML 
 (Level - Beginner)
@@ -22,7 +22,7 @@ Prediction using Supervised ML
 
 
 
-TASK 2
+# TASK 2
 
 Prediction using Unsupervised ML
 (Level - Beginner)
@@ -38,7 +38,7 @@ Prediction using Unsupervised ML
 
 
 
-TASK 4
+# TASK 4
 
 Exploratory Data Analysis - Terrorism
 (Level - Intermediate)
@@ -55,7 +55,7 @@ Exploratory Data Analysis - Terrorism
 
 
 
-TASK 6
+# TASK 6
 
 Prediction using Decision Tree Algorithm
 (Level - Intermediate)
