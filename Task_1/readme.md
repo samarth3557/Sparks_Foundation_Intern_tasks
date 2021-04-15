@@ -1,6 +1,6 @@
 # Data Science & Business Analytics Tasks
 
-## TASK 1
+# TASK 1
 
 Prediction using Supervised ML
 
@@ -17,15 +17,5 @@ Prediction using Supervised ML
 ● What will be predicted score if a student studies for 9.25 hrs/ day?
 
 
-### Importing the required libraries!
-
-import pandas as pd 
-
-import seaborn as sns
-
-import matplotlib.pyplot as plt
-
-import numpy as np 
-
-%matplotlib inline 
+## Importing the required libraries!
 
