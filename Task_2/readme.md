@@ -32,16 +32,15 @@ import numpy as np
 
 ![image of pairplot](https://github.com/samarth3557/Sparks_Foundation_Intern_tasks/blob/main/Task_2/Task_2_images/pairplot.png)
 
-## Scatter plot
 
-![image of scatterplot](https://github.com/samarth3557/Sparks_Foundation_Intern_tasks/blob/main/Task_2/Task_2_images/scatter.png)
-
-## Chosing k =3 from the above elbow curve
+## Chosing k = 3 
 
 ```
 kmeans = KMeans(n_clusters = 3, init = 'k-means++', max_iter = 300, n_init = 10, random_state = 0)
 y_kmeans = kmeans.fit_predict(x)
 ```
+## Scatter plot
 
+![image of scatterplot](https://github.com/samarth3557/Sparks_Foundation_Intern_tasks/blob/main/Task_2/Task_2_images/scatter.png)
 
 
