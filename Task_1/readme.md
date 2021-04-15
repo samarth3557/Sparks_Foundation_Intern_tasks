@@ -49,5 +49,7 @@ No of Hours = [[9.25]]
 Predicted Score = [93.19193983]
 ```
 
+### Conclusion
 
+If a student studies for *9.25 hrs/day*, then his/her predicted score will be *93%*
 
