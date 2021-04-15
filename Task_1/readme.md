@@ -31,3 +31,7 @@ import numpy as np
 
 ![image of Scatterplot](https://github.com/samarth3557/Sparks_Foundation_Intern_tasks/blob/main/Task_1/task_1_images/Scatterplot.png)
 
+### Reg plot
+
+![image of Scatterplot](https://github.com/samarth3557/Sparks_Foundation_Intern_tasks/blob/main/Task_1/task_1_images/regplot.png)
+
