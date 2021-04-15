@@ -29,5 +29,5 @@ import numpy as np
 
 ### Scatter Plot
 
-![image of Scatterplot](https://github.com/samarth3557/Sparks_Foundation_Intern_tasks/tree/main/Task_1/task_1_images/Scatterplot.png)
+![image of Scatterplot](https://github.com/samarth3557/Sparks_Foundation_Intern_tasks/blob/main/Task_1/task_1_images/Scatterplot.png)
 
