@@ -1,6 +1,8 @@
 # Sparks_Foundation_Intern_tasks
 Data Science  &amp; Business  Analytics  Tasks
 
+
+
 TASK 1
 
 Prediction using Supervised ML 
@@ -18,6 +20,8 @@ Prediction using Supervised ML
 
 ● Sample Solution : https://bit.ly/2HxiGGJ
 
+
+
 TASK 2
 
 Prediction using Unsupervised ML
@@ -30,6 +34,8 @@ Prediction using Unsupervised ML
 ● Dataset : https://bit.ly/3kXTdox
 
 ● Sample Solution : https://bit.ly/3cGyP8
+
+
 
 
 TASK 4
@@ -46,6 +52,8 @@ Exploratory Data Analysis - Terrorism
 ● You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel/SAP/SAS) 
 
 ● Dataset: https://bit.ly/2TK5Xn5
+
+
 
 TASK 6
 
