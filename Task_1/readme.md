@@ -29,6 +29,5 @@ import numpy as np
 
 ### Scatter Plot
 
-![image of Scatterplot](C:\Users\SAMARTH P SHET\Python\images\Scatterplot.png)
+![image of Scatterplot](https://github.com/samarth3557/Sparks_Foundation_Intern_tasks/tree/main/Task_1/task_1_images/Scatterplot.png)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
