@@ -1,4 +1,6 @@
-TASK 3
+# Data Science & Business Analytics Tasks
+
+## TASK 4
 
 Exploratory Data Analysis - Terrorism 
 (Level - Intermediate) 
@@ -14,3 +16,17 @@ Exploratory Data Analysis - Terrorism
 ● Dataset: https://bit.ly/2TK5Xn5 
 
 ● Intermediate Level - Create storyboards. Screen-record along with your audio explaining the charts and interpretations. Use images. 
+
+## Importing the Required Libraries!
+
+```
+import pandas as pd 
+import seaborn as sns
+import matplotlib.pyplot as plt
+import numpy as np 
+%matplotlib inline 
+```
+
+# Graphs
+
+![Image of report](https://github.com/samarth3557/Sparks_Foundation_Intern_tasks/blob/main/Task_4/task4_images/report.png)
